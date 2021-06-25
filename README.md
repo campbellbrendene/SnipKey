@@ -5,8 +5,8 @@ This tool adds keybinds, a tray icon, and window transparency to Windows Snippin
 
 ## Keybinds
  * `Win`+`\`: Rectangle (area) snip
- * `Win`+`Shift`+`\`: Fullscreen snip (immedate)
- * `Win`+`Ctrl`+`\`: Window snip
+ * `Win`+`Shift`+`\`: Fullscreen snip (immediate)
+ * `Ctrl`+`Win`+`\`: Window snip
 
 -----
 
